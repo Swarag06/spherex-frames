@@ -1,0 +1,376 @@
+{
+  "target": "3i-atlas-aug",
+  "title": "Comet 3I/ATLAS (Aug 2025)",
+  "ra": 245.8522922452189,
+  "dec": -16.67413948418902,
+  "caption": "The comet stays centred while background stars drift past. It is faint in single frames; see the stacked view.",
+  "frames": [
+    {
+      "file": "frame_000.webp",
+      "obs_id": "2025W31_2A_0219_1D2",
+      "time_utc": "2025-08-01T16:09:34.717",
+      "wavelength_um": 1.3696,
+      "detector": 2
+    },
+    {
+      "file": "frame_001.webp",
+      "obs_id": "2025W31_2A_0219_2D2",
+      "time_utc": "2025-08-01T16:11:43.648",
+      "wavelength_um": 1.4021,
+      "detector": 2
+    },
+    {
+      "file": "frame_002.webp",
+      "obs_id": "2025W31_2A_0219_3D2",
+      "time_utc": "2025-08-01T16:13:52.578",
+      "wavelength_um": 1.4359,
+      "detector": 2
+    },
+    {
+      "file": "frame_003.webp",
+      "obs_id": "2025W32_2D_0189_1D2",
+      "time_utc": "2025-08-08T12:48:37.214",
+      "wavelength_um": 1.358,
+      "detector": 2
+    },
+    {
+      "file": "frame_004.webp",
+      "obs_id": "2025W32_2D_0189_2D2",
+      "time_utc": "2025-08-08T12:50:46.144",
+      "wavelength_um": 1.3901,
+      "detector": 2
+    },
+    {
+      "file": "frame_005.webp",
+      "obs_id": "2025W32_2D_0189_3D2",
+      "time_utc": "2025-08-08T12:52:55.076",
+      "wavelength_um": 1.4237,
+      "detector": 2
+    },
+    {
+      "file": "frame_006.webp",
+      "obs_id": "2025W32_2D_0189_4D2",
+      "time_utc": "2025-08-08T12:55:04.006",
+      "wavelength_um": 1.4577,
+      "detector": 2
+    },
+    {
+      "file": "frame_007.webp",
+      "obs_id": "2025W32_2D_0201_1D2",
+      "time_utc": "2025-08-08T14:29:47.707",
+      "wavelength_um": 1.5293,
+      "detector": 2
+    },
+    {
+      "file": "frame_008.webp",
+      "obs_id": "2025W32_2D_0201_2D2",
+      "time_utc": "2025-08-08T14:31:56.637",
+      "wavelength_um": 1.5667,
+      "detector": 2
+    },
+    {
+      "file": "frame_009.webp",
+      "obs_id": "2025W32_2D_0201_3D2",
+      "time_utc": "2025-08-08T14:34:05.568",
+      "wavelength_um": 1.6045,
+      "detector": 2
+    },
+    {
+      "file": "frame_010.webp",
+      "obs_id": "2025W32_2D_0224_1D1",
+      "time_utc": "2025-08-08T17:40:28.784",
+      "wavelength_um": 0.9186,
+      "detector": 1
+    },
+    {
+      "file": "frame_011.webp",
+      "obs_id": "2025W32_2D_0224_2D1",
+      "time_utc": "2025-08-08T17:42:37.715",
+      "wavelength_um": 0.9406,
+      "detector": 1
+    },
+    {
+      "file": "frame_012.webp",
+      "obs_id": "2025W32_2D_0343_1D1",
+      "time_utc": "2025-08-09T08:24:31.535",
+      "wavelength_um": 0.9626,
+      "detector": 1
+    },
+    {
+      "file": "frame_013.webp",
+      "obs_id": "2025W32_2D_0343_2D1",
+      "time_utc": "2025-08-09T08:26:40.467",
+      "wavelength_um": 0.9857,
+      "detector": 1
+    },
+    {
+      "file": "frame_014.webp",
+      "obs_id": "2025W32_2D_0343_3D1",
+      "time_utc": "2025-08-09T08:28:49.398",
+      "wavelength_um": 1.009,
+      "detector": 1
+    },
+    {
+      "file": "frame_015.webp",
+      "obs_id": "2025W32_2D_0343_4D1",
+      "time_utc": "2025-08-09T08:30:58.328",
+      "wavelength_um": 1.0334,
+      "detector": 1
+    },
+    {
+      "file": "frame_016.webp",
+      "obs_id": "2025W32_2D_0355_1D1",
+      "time_utc": "2025-08-09T09:59:24.446",
+      "wavelength_um": 1.0579,
+      "detector": 1
+    },
+    {
+      "file": "frame_017.webp",
+      "obs_id": "2025W32_2D_0355_2D1",
+      "time_utc": "2025-08-09T10:01:33.377",
+      "wavelength_um": 1.0836,
+      "detector": 1
+    },
+    {
+      "file": "frame_018.webp",
+      "obs_id": "2025W33_1B_0010_4D2",
+      "time_utc": "2025-08-11T01:15:07.926",
+      "wavelength_um": 1.1195,
+      "detector": 2
+    },
+    {
+      "file": "frame_019.webp",
+      "obs_id": "2025W33_1B_0020_1D2",
+      "time_utc": "2025-08-11T02:44:12.416",
+      "wavelength_um": 1.1449,
+      "detector": 2
+    },
+    {
+      "file": "frame_020.webp",
+      "obs_id": "2025W33_1B_0020_2D2",
+      "time_utc": "2025-08-11T02:46:21.346",
+      "wavelength_um": 1.1724,
+      "detector": 2
+    },
+    {
+      "file": "frame_021.webp",
+      "obs_id": "2025W33_1B_0020_3D2",
+      "time_utc": "2025-08-11T02:48:30.275",
+      "wavelength_um": 1.2005,
+      "detector": 2
+    },
+    {
+      "file": "frame_022.webp",
+      "obs_id": "2025W33_1B_0020_4D2",
+      "time_utc": "2025-08-11T02:50:39.208",
+      "wavelength_um": 1.2292,
+      "detector": 2
+    },
+    {
+      "file": "frame_023.webp",
+      "obs_id": "2025W33_1B_0049_1D2",
+      "time_utc": "2025-08-11T06:00:37.306",
+      "wavelength_um": 1.2572,
+      "detector": 2
+    },
+    {
+      "file": "frame_024.webp",
+      "obs_id": "2025W33_1B_0049_2D2",
+      "time_utc": "2025-08-11T06:02:46.237",
+      "wavelength_um": 1.2869,
+      "detector": 2
+    },
+    {
+      "file": "frame_025.webp",
+      "obs_id": "2025W33_1B_0049_3D2",
+      "time_utc": "2025-08-11T06:04:55.166",
+      "wavelength_um": 1.3176,
+      "detector": 2
+    },
+    {
+      "file": "frame_026.webp",
+      "obs_id": "2025W33_1B_0049_4D2",
+      "time_utc": "2025-08-11T06:07:04.099",
+      "wavelength_um": 1.3487,
+      "detector": 2
+    },
+    {
+      "file": "frame_027.webp",
+      "obs_id": "2025W33_1B_0134_1D1",
+      "time_utc": "2025-08-11T17:23:58.840",
+      "wavelength_um": 0.755,
+      "detector": 1
+    },
+    {
+      "file": "frame_028.webp",
+      "obs_id": "2025W33_1B_0134_2D1",
+      "time_utc": "2025-08-11T17:26:07.772",
+      "wavelength_um": 0.7723,
+      "detector": 1
+    },
+    {
+      "file": "frame_029.webp",
+      "obs_id": "2025W33_1B_0134_3D1",
+      "time_utc": "2025-08-11T17:28:16.703",
+      "wavelength_um": 0.7906,
+      "detector": 1
+    },
+    {
+      "file": "frame_030.webp",
+      "obs_id": "2025W33_1B_0183_1D1",
+      "time_utc": "2025-08-11T23:56:16.390",
+      "wavelength_um": 0.8086,
+      "detector": 1
+    },
+    {
+      "file": "frame_031.webp",
+      "obs_id": "2025W33_1B_0183_2D1",
+      "time_utc": "2025-08-11T23:58:25.321",
+      "wavelength_um": 0.8278,
+      "detector": 1
+    },
+    {
+      "file": "frame_032.webp",
+      "obs_id": "2025W33_1B_0183_3D1",
+      "time_utc": "2025-08-12T00:00:34.253",
+      "wavelength_um": 0.8474,
+      "detector": 1
+    },
+    {
+      "file": "frame_033.webp",
+      "obs_id": "2025W33_1B_0183_4D1",
+      "time_utc": "2025-08-12T00:02:43.184",
+      "wavelength_um": 0.8673,
+      "detector": 1
+    },
+    {
+      "file": "frame_034.webp",
+      "obs_id": "2025W33_1B_0399_1D2",
+      "time_utc": "2025-08-13T03:40:59.402",
+      "wavelength_um": 1.5217,
+      "detector": 2
+    },
+    {
+      "file": "frame_035.webp",
+      "obs_id": "2025W33_1B_0399_2D2",
+      "time_utc": "2025-08-13T03:43:08.334",
+      "wavelength_um": 1.559,
+      "detector": 2
+    },
+    {
+      "file": "frame_036.webp",
+      "obs_id": "2025W33_1B_0399_3D2",
+      "time_utc": "2025-08-13T03:45:17.263",
+      "wavelength_um": 1.5965,
+      "detector": 2
+    },
+    {
+      "file": "frame_037.webp",
+      "obs_id": "2025W33_1B_0399_4D2",
+      "time_utc": "2025-08-13T03:47:26.195",
+      "wavelength_um": 1.6347,
+      "detector": 2
+    },
+    {
+      "file": "frame_038.webp",
+      "obs_id": "2025W33_1B_0447_1D1",
+      "time_utc": "2025-08-13T10:10:26.579",
+      "wavelength_um": 0.8827,
+      "detector": 1
+    },
+    {
+      "file": "frame_039.webp",
+      "obs_id": "2025W33_1B_0447_2D1",
+      "time_utc": "2025-08-13T10:12:35.509",
+      "wavelength_um": 0.9034,
+      "detector": 1
+    },
+    {
+      "file": "frame_040.webp",
+      "obs_id": "2025W33_1B_0576_1D1",
+      "time_utc": "2025-08-14T02:27:37.865",
+      "wavelength_um": 0.7558,
+      "detector": 1
+    },
+    {
+      "file": "frame_041.webp",
+      "obs_id": "2025W33_1B_0576_2D1",
+      "time_utc": "2025-08-14T02:29:46.796",
+      "wavelength_um": 0.7733,
+      "detector": 1
+    },
+    {
+      "file": "frame_042.webp",
+      "obs_id": "2025W33_1B_0576_3D1",
+      "time_utc": "2025-08-14T02:31:55.726",
+      "wavelength_um": 0.7917,
+      "detector": 1
+    },
+    {
+      "file": "frame_043.webp",
+      "obs_id": "2025W33_1B_0576_4D1",
+      "time_utc": "2025-08-14T02:34:04.657",
+      "wavelength_um": 0.8104,
+      "detector": 1
+    },
+    {
+      "file": "frame_044.webp",
+      "obs_id": "2025W33_1B_0599_1D2",
+      "time_utc": "2025-08-14T05:47:29.965",
+      "wavelength_um": 1.4816,
+      "detector": 2
+    },
+    {
+      "file": "frame_045.webp",
+      "obs_id": "2025W33_1B_0642_1D1",
+      "time_utc": "2025-08-14T10:41:02.834",
+      "wavelength_um": 1.0102,
+      "detector": 1
+    },
+    {
+      "file": "frame_046.webp",
+      "obs_id": "2025W33_1B_0642_2D1",
+      "time_utc": "2025-08-14T10:43:11.765",
+      "wavelength_um": 1.0345,
+      "detector": 1
+    },
+    {
+      "file": "frame_047.webp",
+      "obs_id": "2025W33_1B_0642_3D1",
+      "time_utc": "2025-08-14T10:45:20.696",
+      "wavelength_um": 1.0589,
+      "detector": 1
+    },
+    {
+      "file": "frame_048.webp",
+      "obs_id": "2025W33_1B_0642_4D1",
+      "time_utc": "2025-08-14T10:47:29.626",
+      "wavelength_um": 1.0842,
+      "detector": 1
+    },
+    {
+      "file": "frame_049.webp",
+      "obs_id": "2025W33_2C_0073_1D1",
+      "time_utc": "2025-08-14T18:46:41.198",
+      "wavelength_um": 0.8885,
+      "detector": 1
+    },
+    {
+      "file": "frame_050.webp",
+      "obs_id": "2025W33_2C_0220_1D1",
+      "time_utc": "2025-08-15T09:26:36.829",
+      "wavelength_um": 0.9106,
+      "detector": 1
+    },
+    {
+      "file": "frame_051.webp",
+      "obs_id": "2025W33_2C_0255_1D1",
+      "time_utc": "2025-08-15T12:42:49.439",
+      "wavelength_um": 0.9031,
+      "detector": 1
+    }
+  ],
+  "tracking": true,
+  "marker": "center",
+  "stack": "stack.webp"
+}
