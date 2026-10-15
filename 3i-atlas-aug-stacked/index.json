@@ -1,0 +1,46 @@
+{
+  "target": "3i-atlas-aug-stacked",
+  "title": "Comet 3I/ATLAS (Aug 2025) (stacked)",
+  "ra": 245.8522922452189,
+  "dec": -16.67413948418902,
+  "caption": "Each image combines frames from a few days, so the faint comet becomes visible. Background stars drift and fade; the comet stays at the centre.",
+  "frames": [
+    {
+      "file": "frame_000.webp",
+      "obs_id": "stack of 15 frames",
+      "time_utc": "2025-08-08T21:53:13.093",
+      "wavelength_um": 1.2214,
+      "detector": 0
+    },
+    {
+      "file": "frame_001.webp",
+      "obs_id": "stack of 22 frames",
+      "time_utc": "2025-08-10T21:45:50.636",
+      "wavelength_um": 1.0399,
+      "detector": 0
+    },
+    {
+      "file": "frame_002.webp",
+      "obs_id": "stack of 22 frames",
+      "time_utc": "2025-08-11T23:06:12.260",
+      "wavelength_um": 1.1293,
+      "detector": 0
+    },
+    {
+      "file": "frame_003.webp",
+      "obs_id": "stack of 16 frames",
+      "time_utc": "2025-08-13T22:03:24.651",
+      "wavelength_um": 1.1117,
+      "detector": 0
+    },
+    {
+      "file": "frame_004.webp",
+      "obs_id": "stack of 12 frames",
+      "time_utc": "2025-08-14T12:18:40.616",
+      "wavelength_um": 0.9586,
+      "detector": 0
+    }
+  ],
+  "tracking": true,
+  "marker": "center"
+}
