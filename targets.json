@@ -1,4 +1,1 @@
-{ "targets": ["test-field"] }
-{ "targets": ["3i-atlas-aug-buildup"] }
-{ "targets": ["3i-atlas-aug-stacked"] }
-{ "targets": ["3i-atlas-aug"] }
+{ "targets": ["test-field", "3i-atlas-aug", "3i-atlas-aug-stacked", "3i-atlas-aug-buildup"] }
