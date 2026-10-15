@@ -1,0 +1,60 @@
+{
+  "target": "3i-atlas-aug-buildup",
+  "title": "Comet 3I/ATLAS (Aug 2025) (build-up)",
+  "ra": 245.8522922452189,
+  "dec": -16.67413948418902,
+  "caption": "Watch the comet emerge from the noise as more frames are combined.",
+  "frames": [
+    {
+      "file": "frame_000.webp",
+      "obs_id": "1 frame combined",
+      "time_utc": "2025-08-11T06:07:04.099",
+      "wavelength_um": 1.3487,
+      "detector": 0
+    },
+    {
+      "file": "frame_001.webp",
+      "obs_id": "2 frames combined",
+      "time_utc": "2025-08-08T14:26:12.078",
+      "wavelength_um": 1.1363,
+      "detector": 0
+    },
+    {
+      "file": "frame_002.webp",
+      "obs_id": "4 frames combined",
+      "time_utc": "2025-08-09T22:38:44.234",
+      "wavelength_um": 1.2195,
+      "detector": 0
+    },
+    {
+      "file": "frame_003.webp",
+      "obs_id": "8 frames combined",
+      "time_utc": "2025-08-10T15:48:23.770",
+      "wavelength_um": 1.1511,
+      "detector": 0
+    },
+    {
+      "file": "frame_004.webp",
+      "obs_id": "16 frames combined",
+      "time_utc": "2025-08-11T01:27:33.501",
+      "wavelength_um": 1.1576,
+      "detector": 0
+    },
+    {
+      "file": "frame_005.webp",
+      "obs_id": "32 frames combined",
+      "time_utc": "2025-08-11T00:03:12.103",
+      "wavelength_um": 1.1659,
+      "detector": 0
+    },
+    {
+      "file": "frame_006.webp",
+      "obs_id": "52 frames combined",
+      "time_utc": "2025-08-11T01:51:48.547",
+      "wavelength_um": 1.1322,
+      "detector": 0
+    }
+  ],
+  "tracking": true,
+  "marker": "center"
+}
