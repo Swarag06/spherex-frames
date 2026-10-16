@@ -1,0 +1,250 @@
+{
+  "target": "3i-atlas-dec",
+  "title": "Comet 3I/ATLAS (Dec 2025)",
+  "ra": 172.2890996125708,
+  "dec": 3.35999969224274,
+  "caption": "The comet stays centred while background stars drift past.",
+  "frames": [
+    {
+      "file": "frame_000.webp",
+      "obs_id": "2025W50_1A_0002_1D1",
+      "time_utc": "2025-12-08T00:06:28.588",
+      "wavelength_um": 0.7501,
+      "detector": 1
+    },
+    {
+      "file": "frame_001.webp",
+      "obs_id": "2025W50_1A_0002_2D1",
+      "time_utc": "2025-12-08T00:08:37.520",
+      "wavelength_um": 0.7501,
+      "detector": 1
+    },
+    {
+      "file": "frame_002.webp",
+      "obs_id": "2025W50_1A_0002_3D1",
+      "time_utc": "2025-12-08T00:10:46.450",
+      "wavelength_um": 0.7674,
+      "detector": 1
+    },
+    {
+      "file": "frame_003.webp",
+      "obs_id": "2025W50_1A_0002_4D1",
+      "time_utc": "2025-12-08T00:12:56.916",
+      "wavelength_um": 0.7855,
+      "detector": 1
+    },
+    {
+      "file": "frame_004.webp",
+      "obs_id": "2025W50_1A_0021_1D1",
+      "time_utc": "2025-12-08T01:44:56.381",
+      "wavelength_um": 0.8037,
+      "detector": 1
+    },
+    {
+      "file": "frame_005.webp",
+      "obs_id": "2025W50_1A_0021_2D1",
+      "time_utc": "2025-12-08T01:47:05.312",
+      "wavelength_um": 0.8227,
+      "detector": 1
+    },
+    {
+      "file": "frame_006.webp",
+      "obs_id": "2025W50_1A_0021_3D1",
+      "time_utc": "2025-12-08T01:49:14.243",
+      "wavelength_um": 0.8424,
+      "detector": 1
+    },
+    {
+      "file": "frame_007.webp",
+      "obs_id": "2025W50_1A_0021_4D1",
+      "time_utc": "2025-12-08T01:51:23.175",
+      "wavelength_um": 0.8622,
+      "detector": 1
+    },
+    {
+      "file": "frame_008.webp",
+      "obs_id": "2025W50_1A_0038_1D1",
+      "time_utc": "2025-12-08T03:22:24.314",
+      "wavelength_um": 0.8829,
+      "detector": 1
+    },
+    {
+      "file": "frame_009.webp",
+      "obs_id": "2025W50_1A_0038_2D1",
+      "time_utc": "2025-12-08T03:24:33.245",
+      "wavelength_um": 0.9036,
+      "detector": 1
+    },
+    {
+      "file": "frame_010.webp",
+      "obs_id": "2025W50_1A_0038_3D1",
+      "time_utc": "2025-12-08T03:26:42.176",
+      "wavelength_um": 0.9254,
+      "detector": 1
+    },
+    {
+      "file": "frame_011.webp",
+      "obs_id": "2025W50_1A_0038_4D1",
+      "time_utc": "2025-12-08T03:28:51.107",
+      "wavelength_um": 0.9473,
+      "detector": 1
+    },
+    {
+      "file": "frame_012.webp",
+      "obs_id": "2025W50_1A_0106_1D1",
+      "time_utc": "2025-12-08T09:53:32.790",
+      "wavelength_um": 1.0164,
+      "detector": 1
+    },
+    {
+      "file": "frame_013.webp",
+      "obs_id": "2025W50_1A_0106_2D1",
+      "time_utc": "2025-12-08T09:55:41.720",
+      "wavelength_um": 1.0408,
+      "detector": 1
+    },
+    {
+      "file": "frame_014.webp",
+      "obs_id": "2025W50_1A_0106_3D1",
+      "time_utc": "2025-12-08T09:57:52.187",
+      "wavelength_um": 1.0655,
+      "detector": 1
+    },
+    {
+      "file": "frame_015.webp",
+      "obs_id": "2025W50_1A_0106_4D1",
+      "time_utc": "2025-12-08T10:00:01.117",
+      "wavelength_um": 1.091,
+      "detector": 1
+    },
+    {
+      "file": "frame_016.webp",
+      "obs_id": "2025W50_1A_0120_1D1",
+      "time_utc": "2025-12-08T11:27:51.931",
+      "wavelength_um": 0.9698,
+      "detector": 1
+    },
+    {
+      "file": "frame_017.webp",
+      "obs_id": "2025W50_1A_0348_1D2",
+      "time_utc": "2025-12-09T11:54:44.090",
+      "wavelength_um": 1.1072,
+      "detector": 2
+    },
+    {
+      "file": "frame_018.webp",
+      "obs_id": "2025W50_1A_0348_2D2",
+      "time_utc": "2025-12-09T11:56:53.021",
+      "wavelength_um": 1.1329,
+      "detector": 2
+    },
+    {
+      "file": "frame_019.webp",
+      "obs_id": "2025W50_1A_0348_3D2",
+      "time_utc": "2025-12-09T11:59:01.952",
+      "wavelength_um": 1.1604,
+      "detector": 2
+    },
+    {
+      "file": "frame_020.webp",
+      "obs_id": "2025W50_1A_0348_4D2",
+      "time_utc": "2025-12-09T12:01:10.882",
+      "wavelength_um": 1.1882,
+      "detector": 2
+    },
+    {
+      "file": "frame_021.webp",
+      "obs_id": "2025W50_2A_0685_1D2",
+      "time_utc": "2025-12-14T04:26:46.211",
+      "wavelength_um": 1.2165,
+      "detector": 2
+    },
+    {
+      "file": "frame_022.webp",
+      "obs_id": "2025W50_2A_0685_2D2",
+      "time_utc": "2025-12-14T04:28:55.142",
+      "wavelength_um": 1.2456,
+      "detector": 2
+    },
+    {
+      "file": "frame_023.webp",
+      "obs_id": "2025W50_2A_0685_3D2",
+      "time_utc": "2025-12-14T04:31:04.072",
+      "wavelength_um": 1.2753,
+      "detector": 2
+    },
+    {
+      "file": "frame_024.webp",
+      "obs_id": "2025W50_2A_0685_4D2",
+      "time_utc": "2025-12-14T04:33:13.004",
+      "wavelength_um": 1.3058,
+      "detector": 2
+    },
+    {
+      "file": "frame_025.webp",
+      "obs_id": "2025W50_2A_0698_1D2",
+      "time_utc": "2025-12-14T06:01:11.491",
+      "wavelength_um": 1.3361,
+      "detector": 2
+    },
+    {
+      "file": "frame_026.webp",
+      "obs_id": "2025W50_2A_0698_2D2",
+      "time_utc": "2025-12-14T06:03:20.421",
+      "wavelength_um": 1.3681,
+      "detector": 2
+    },
+    {
+      "file": "frame_027.webp",
+      "obs_id": "2025W50_2A_0698_3D2",
+      "time_utc": "2025-12-14T06:05:29.353",
+      "wavelength_um": 1.4006,
+      "detector": 2
+    },
+    {
+      "file": "frame_028.webp",
+      "obs_id": "2025W50_2A_0698_4D2",
+      "time_utc": "2025-12-14T06:07:38.283",
+      "wavelength_um": 1.4344,
+      "detector": 2
+    },
+    {
+      "file": "frame_029.webp",
+      "obs_id": "2025W50_2A_0712_1D2",
+      "time_utc": "2025-12-14T07:39:57.703",
+      "wavelength_um": 1.4686,
+      "detector": 2
+    },
+    {
+      "file": "frame_030.webp",
+      "obs_id": "2025W50_2A_0712_2D2",
+      "time_utc": "2025-12-14T07:42:06.635",
+      "wavelength_um": 1.5043,
+      "detector": 2
+    },
+    {
+      "file": "frame_031.webp",
+      "obs_id": "2025W50_2A_0712_3D2",
+      "time_utc": "2025-12-14T07:44:15.565",
+      "wavelength_um": 1.541,
+      "detector": 2
+    },
+    {
+      "file": "frame_032.webp",
+      "obs_id": "2025W50_2A_0712_4D2",
+      "time_utc": "2025-12-14T07:46:24.496",
+      "wavelength_um": 1.5783,
+      "detector": 2
+    },
+    {
+      "file": "frame_033.webp",
+      "obs_id": "2025W50_2A_0827_1D2",
+      "time_utc": "2025-12-14T20:43:02.239",
+      "wavelength_um": 1.6165,
+      "detector": 2
+    }
+  ],
+  "tracking": true,
+  "marker": "center",
+  "stack": "stack.webp"
+}
