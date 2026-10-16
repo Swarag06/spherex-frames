@@ -1,1 +1,1 @@
-{ "targets": ["3i-atlas-aug-buildup","3i-atlas-aug-stacked","3i-atlas-aug","3i-atlas-aug-buildup", "3i-atlas-aug-stacked", "3i-atlas-aug", "test-field"] }
+{ "targets": ["3i-atlas-aug-buildup", "3i-atlas-aug-stacked", "3i-atlas-aug", "3i-atlas-dec-buildup","3i-atlas-dec-stacked","3i-atlas-dec","test-field"] }
